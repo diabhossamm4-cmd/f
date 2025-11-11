@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>252496171218-6iicpk8r0aklblrnpflv5n48e91158a9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.252496171218-6iicpk8r0aklblrnpflv5n48e91158a9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>252496171218-4od8hgtke7d9s6cscq4d6s04b1kdmj43.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCWEFgTMTQuWpiJ8vVM913OZni-Q5nEngU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>252496171218</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.web.stdy.espitaliaa.espitaliaaDoctors</string>
+	<key>PROJECT_ID</key>
+	<string>espitalia-6d7e7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>espitalia-6d7e7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:252496171218:ios:b68c0c2419e1f243555d0b</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/espitaliaa_doctors/android/app/src/main/res/drawable-v21/launch_background.xml" value="0.12604166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="android" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Android API 36.0, extension level 17 Platform" project-jdk-type="Android SDK" />
+</project>
